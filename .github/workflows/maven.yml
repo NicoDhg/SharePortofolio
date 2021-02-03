@@ -5,7 +5,7 @@ name: Java CI with Maven
 
 env:
     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+    SONAR_TOKEN: ${{ secrets.SONAR_TOKER }}
 
 on:
   push:
