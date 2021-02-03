@@ -40,7 +40,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <sonar.organization>davidnavarreics</sonar.organization>
-        <soner.projectKey>NicoDhg_SharePortofolio</soner.projectKey>
+        <sonar.projectKey>NicoDhg_SharePortofolio</sonar.projectKey>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <sonar.java.libraries></sonar.java.libraries>
     </properties>
